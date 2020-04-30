@@ -6,6 +6,6 @@ categories: welcome
 ---
 This is my personal blog, in it I'll to write about my way to be a better java programmer every day, for it purpose I'm creating my [git repos][my git-repos]
 
-![Advice Day](/assets/bad_and_good_programmers.jpg)
+![Advice Day](/assets/badGoodProgrammers.jpg)
 
 [my git-repos]: https://github.com/jparanda?tab=repositories
